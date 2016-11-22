@@ -1,0 +1,6 @@
+D:\vs2015\Sample001\Sample001\bin\Debug\Sample001.exe.config
+D:\vs2015\Sample001\Sample001\bin\Debug\Sample001.exe
+D:\vs2015\Sample001\Sample001\bin\Debug\Sample001.pdb
+D:\vs2015\Sample001\Sample001\obj\Debug\Sample001.csprojResolveAssemblyReference.cache
+D:\vs2015\Sample001\Sample001\obj\Debug\Sample001.exe
+D:\vs2015\Sample001\Sample001\obj\Debug\Sample001.pdb
